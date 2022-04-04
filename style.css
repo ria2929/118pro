@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(243, 205, 230);
+}
+
+#score1{
+    font-size: 35px;
+    float:left;
+    margin-left: 55px;
+    color: black;
+}
+
+#timer1{
+    font-size: 35px;
+    float:right;
+    margin-right: 55px;
+    color: black;
+}
+
+#sketch{
+    font-size: 30px;
+    color: rgb(131, 35, 131);
+}
